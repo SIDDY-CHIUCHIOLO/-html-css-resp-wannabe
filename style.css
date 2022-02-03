@@ -81,7 +81,7 @@ img {
   }
 
   .row {
-    width: 420px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
@@ -105,3 +105,4 @@ img {
     background-color: #f2f2cd;
   }
 }
+
